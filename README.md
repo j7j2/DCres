@@ -7,6 +7,10 @@ This is not an application but a ffqueue profile set optimized for a certain use
 # Target devices
 The video files encoded must be compliant with most of the old android 4.2 mobile phones and tablet
 
+# Target size
+300mb for 3per gb on sd cards
+230mb for 4per gb on sd cards or 3 on a cd-r
+
 # Rules
 Video will be 0.1mp and full mod16 (even if aspect ratio is slightly off)  
 there will be 3 aspect ratios:  
